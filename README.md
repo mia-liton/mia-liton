@@ -113,17 +113,21 @@ Backend application developed using Java, Spring Boot, JPA, and MySQL.
 
 ### 4. BPDB CDMS Web Application
 
-Contributed to frontend development for a web-based application with multiple portals and role-based functionality.
+Development frontend for a web-based application with multiple portals and role-based functionality.
 
 - **Technologies:** Next.js, TypeScript, Tailwind CSS, shadcn/ui
-- 
+  
 ### 5. BPDB Authority Mobile App
 
-Contributed to the development of a mobile application with role-based dashboards and REST API integration.
+Development mobile application with role-based dashboards and REST API integration.
 
 - **Technologies:** React Native, Expo, TypeScript
 
----
+### 5. Webinterpret
+
+Contributed to the frontend of a web-based application and REST API integration.
+
+- **Technologies:** Next.js, TypeScript, Tailwind CSS, shadcn/ui
 
 ## Connect With Me
 
